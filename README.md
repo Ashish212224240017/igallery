@@ -161,9 +161,7 @@ Publish the website in the given URL.
             <img src="" alt="" id="ii">
         </div>
     </div>
-    <footer align="center">
-        DESIGNED and DEVELOPED by KAMLESH Y
-    </footer>
+    
 
     <script>
         var a=document.getElementById('iii');
